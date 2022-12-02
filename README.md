@@ -1,6 +1,14 @@
 # Awesome-music-generation-model
+This repository contains a collection of resources and papers on Music Generation Models.
+
+## Resources
+
 
 ## Paper
+### Survey
+https://arxiv.org/pdf/2011.06801.pdf
+
+
 ### melody generation
 unit selection
 folk-rnn
