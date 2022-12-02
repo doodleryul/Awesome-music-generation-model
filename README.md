@@ -51,5 +51,7 @@ performance rnn
 groovae
 transformer
 pop music transformert
+Multi-instrument Music Synthesis with Spectrogram Diffusion 
+
 ## Review
 https://arxiv.org/abs/2011.06801
