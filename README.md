@@ -21,48 +21,46 @@ arXiv 2016 [[Paper](https://arxiv.org/abs/1604.08723)] \
 
 **A Hierarchical Recurrent Neural Network for Symbolic Melody Generation** \
 *Jian Wu, Changran Hu, Yulong Wang, Xiaolin Hu, and Jun Zhu* \
-arXiv 2017 [Paper](https://arxiv.org/abs/1712.05274)
+arXiv 2017 [Paper](https://arxiv.org/abs/1712.05274) \
 14 Dec 2017
-<br>
-Anticipation-RNN: enforcing unary constraints in sequence generation, with application to interactive music generation
-Gaëtan Hadjeres, Frank Nielsen
-20 Nov 2018
-<br>
-Music generation with variational recurrent autoencoder supported by history
-Ivan P Yamshchikov, Alexey Tikhonov
 
-<br>
-GLSR-VAE: Geodesic Latent Space Regularization for Variational AutoEncoder Architectures
-Gaëtan Hadjeres, Frank Nielsen, François Pachet
-IEEE 2017 [Paper](https://ieeexplore.ieee.org/abstract/document/8280895)
+**Anticipation-RNN: enforcing unary constraints in sequence generation, with application to interactive music generation** \
+*Gaëtan Hadjeres, Frank Nielsen* \
+20 Nov 2018 \
 
-<br>
-Seqgan: Sequence generative adversarial nets with policy gradient
-Lantao Yu, Weinan Zhang, Jun Wang, Yong Yu
-AAAI 2017 [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/10804)
+**Music generation with variational recurrent autoencoder supported by history** \
+*Ivan P Yamshchikov, Alexey Tikhonov*
 
-<br>
-Tuning recurrent neural networks with re-inforcement learning
-Natasha Jaques12, Shixiang Gu134, Richard E Turner, Douglas Eck
-arXiv 2016 [Paper](http://www.datascienceassn.org/sites/default/files/Tuning%20Recurrent%20Neural%20Networks%20with%20Reinforcement%20Learning.pdf)
+
+**GLSR-VAE: Geodesic Latent Space Regularization for Variational AutoEncoder Architectures** \
+*Gaëtan Hadjeres, Frank Nielsen, François Pachet* \
+IEEE 2017 [Paper](https://ieeexplore.ieee.org/abstract/document/8280895) \
+
+
+**Seqgan: Sequence generative adversarial nets with policy gradient** \
+*Lantao Yu, Weinan Zhang, Jun Wang, Yong Yu* \
+AAAI 2017 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/10804)]
+
+**Tuning recurrent neural networks with re-inforcement learning** \
+*Natasha Jaques12, Shixiang Gu134, Richard E Turner, Douglas Eck* \
+arXiv 2016 [[Paper](http://www.datascienceassn.org/sites/default/files/Tuning%20Recurrent%20Neural%20Networks%20with%20Reinforcement%20Learning.pdf)] \
 10 Nov 2016
-<br>
-A hierarchical latent vector model for learning long-term structure in music
-Adam Roberts, Jesse Engel, Colin Raffel, Curtis Hawthorne, Douglas Eck
-<br>
-MidiNet: A convolutional generative adversarial network for symbolic-domain music generation
-Li-Chia Yang, Szu-Yu Chou, Yi-Hsuan Yang
-arXiv 2017 [Paper](https://arxiv.org/abs/1703.10847)
-18 Jul 2017
-<br>
-Automatic melody composition using enhanced GAN
-Shuyu Li, Sejun Jang, Yunsick Sung
 
-<br>
-BebopNet: Deep Neural Models for Personalized Jazz Improvisations.
-Shunit Haviv Hakimi, Nadav Bhonker, Ran El-Yaniv
-ISMIR 2020 [Paper](https://program.ismir2020.net/static/final_papers/132.pdf)
-<br>
+**A hierarchical latent vector model for learning long-term structure in music** \
+*Adam Roberts, Jesse Engel, Colin Raffel, Curtis Hawthorne, Douglas Eck* \
+
+**MidiNet: A convolutional generative adversarial network for symbolic-domain music generation** \
+*Li-Chia Yang, Szu-Yu Chou, Yi-Hsuan Yang* \
+arXiv 2017 [[Paper](https://arxiv.org/abs/1703.10847)]
+18 Jul 2017
+
+**Automatic melody composition using enhanced GAN** \
+*Shuyu Li, Sejun Jang, Yunsick Sung* \
+
+**BebopNet: Deep Neural Models for Personalized Jazz Improvisations.** \
+*Shunit Haviv Hakimi, Nadav Bhonker, Ran El-Yaniv* \
+ISMIR 2020 [[Paper](https://program.ismir2020.net/static/final_papers/132.pdf)]
+
 chordal
 
 
