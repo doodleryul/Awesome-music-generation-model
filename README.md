@@ -88,15 +88,26 @@ arXiv 2016 [[Paper](https://arxiv.org/abs/1611.09904)] \
 *Gaëtan Hadjeres, François Pachet, Frank Nielsen* \
 PMLR [[Paper](http://proceedings.mlr.press/v70/hadjeres17a.html?ref=https://githubhelp.com)]
 
-<br>
-bachprop
-<br>
-deepJ
-<br>
-musenet
-<br>
-music transformer
-<br>
+**Bachprop: Learning to compose music in multiple styles** \
+*Florian Colombo, Wulfram Gerstner* \
+arXiv 2018 [[Paper](https://arxiv.org/abs/1802.05162)] \
+14 Feb 2018
+
+**DeepJ: Style-specific music generation** \
+*Huanru Henry Mao, Taylor Shin, Garrison Cottrell* \
+IEEE 2018 [[Paper](https://ieeexplore.ieee.org/abstract/document/8334500)] \
+12 Apr 2018
+
+**Musenet: Collaboration in the music artists industry** \
+*Alexandru Topirceanu, Gabriel Barina, Mihai Udrescu* \
+IEEE 2014 [[Paper](https://ieeexplore.ieee.org/abstract/document/6984896)] \
+14 Dec 2014
+
+**Music transformer** \
+*Cheng-Zhi Anna Huang, Ashish Vaswani, Jakob Uszkoreit, Noam Shazeer, Ian Simon, Curtis Hawthorne, Andrew M Dai, Matthew D Hoffman, Monica Dinculescu, Douglas Eck* \
+arXiv 2018 [[Paper](https://arxiv.org/abs/1809.04281)] \
+12 Dec 2018
+
 music fadernets
 <br>
 pianotree vae
