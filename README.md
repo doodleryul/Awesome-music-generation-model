@@ -14,29 +14,54 @@ unit
 <br>
 selection
 <br>
-folk-rnn
+<b>Music transcription modelling and composition using deep learning</b>
+Bob L Sturm, Joao Felipe Santos, Oded Ben-Tal, Iryna Korshunova
+arXiv 2016 [Paper](https://arxiv.org/abs/1604.08723)
+29 Apr 2016
 <br>
-melody rnn
+A Hierarchical Recurrent Neural Network for Symbolic Melody Generation
+Jian Wu, Changran Hu, Yulong Wang, Xiaolin Hu, and Jun Zhu
+arXiv 2017 [Paper](https://arxiv.org/abs/1712.05274)
+14 Dec 2017
 <br>
-anticipation-rnn
+Anticipation-RNN: enforcing unary constraints in sequence generation, with application to interactive music generation
+Gaëtan Hadjeres, Frank Nielsen
+20 Nov 2018
 <br>
-vrash
+Music generation with variational recurrent autoencoder supported by history
+Ivan P Yamshchikov, Alexey Tikhonov
+
 <br>
-glsr-vae
+GLSR-VAE: Geodesic Latent Space Regularization for Variational AutoEncoder Architectures
+Gaëtan Hadjeres, Frank Nielsen, François Pachet
+IEEE 2017 [Paper](https://ieeexplore.ieee.org/abstract/document/8280895)
+
 <br>
-seqgan
+Seqgan: Sequence generative adversarial nets with policy gradient
+Lantao Yu, Weinan Zhang, Jun Wang, Yong Yu
+AAAI 2017 [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/10804)
+
 <br>
-rl-tuner
+Tuning recurrent neural networks with re-inforcement learning
+Natasha Jaques12, Shixiang Gu134, Richard E Turner, Douglas Eck
+arXiv 2016 [Paper](http://www.datascienceassn.org/sites/default/files/Tuning%20Recurrent%20Neural%20Networks%20with%20Reinforcement%20Learning.pdf)
+10 Nov 2016
 <br>
-musicvae
+A hierarchical latent vector model for learning long-term structure in music
+Adam Roberts, Jesse Engel, Colin Raffel, Curtis Hawthorne, Douglas Eck
 <br>
-midinet
+MidiNet: A convolutional generative adversarial network for symbolic-domain music generation
+Li-Chia Yang, Szu-Yu Chou, Yi-Hsuan Yang
+arXiv 2017 [Paper](https://arxiv.org/abs/1703.10847)
+18 Jul 2017
 <br>
-xiaocle band crmcg
+Automatic melody composition using enhanced GAN
+Shuyu Li, Sejun Jang, Yunsick Sung
+
 <br>
-jazzgan
-<br>
-bebopnet
+BebopNet: Deep Neural Models for Personalized Jazz Improvisations.
+Shunit Haviv Hakimi, Nadav Bhonker, Ran El-Yaniv
+ISMIR 2020 [Paper](https://program.ismir2020.net/static/final_papers/132.pdf)
 <br>
 chordal
 
