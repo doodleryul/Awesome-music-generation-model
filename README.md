@@ -26,7 +26,7 @@ arXiv 2017 [Paper](https://arxiv.org/abs/1712.05274) \
 
 **Anticipation-RNN: enforcing unary constraints in sequence generation, with application to interactive music generation** \
 *Gaëtan Hadjeres, Frank Nielsen* \
-20 Nov 2018 \
+20 Nov 2018
 
 **Music generation with variational recurrent autoencoder supported by history** \
 *Ivan P Yamshchikov, Alexey Tikhonov*
@@ -34,7 +34,7 @@ arXiv 2017 [Paper](https://arxiv.org/abs/1712.05274) \
 
 **GLSR-VAE: Geodesic Latent Space Regularization for Variational AutoEncoder Architectures** \
 *Gaëtan Hadjeres, Frank Nielsen, François Pachet* \
-IEEE 2017 [Paper](https://ieeexplore.ieee.org/abstract/document/8280895) \
+IEEE 2017 [[Paper](https://ieeexplore.ieee.org/abstract/document/8280895)]
 
 
 **Seqgan: Sequence generative adversarial nets with policy gradient** \
@@ -47,15 +47,15 @@ arXiv 2016 [[Paper](http://www.datascienceassn.org/sites/default/files/Tuning%20
 10 Nov 2016
 
 **A hierarchical latent vector model for learning long-term structure in music** \
-*Adam Roberts, Jesse Engel, Colin Raffel, Curtis Hawthorne, Douglas Eck* \
+*Adam Roberts, Jesse Engel, Colin Raffel, Curtis Hawthorne, Douglas Eck*
 
 **MidiNet: A convolutional generative adversarial network for symbolic-domain music generation** \
 *Li-Chia Yang, Szu-Yu Chou, Yi-Hsuan Yang* \
-arXiv 2017 [[Paper](https://arxiv.org/abs/1703.10847)]
+arXiv 2017 [[Paper](https://arxiv.org/abs/1703.10847)] \
 18 Jul 2017
 
 **Automatic melody composition using enhanced GAN** \
-*Shuyu Li, Sejun Jang, Yunsick Sung* \
+*Shuyu Li, Sejun Jang, Yunsick Sung*
 
 **BebopNet: Deep Neural Models for Personalized Jazz Improvisations.** \
 *Shunit Haviv Hakimi, Nadav Bhonker, Ran El-Yaniv* \
@@ -65,17 +65,29 @@ chordal
 
 
 ### polyphonic music generation
-rnn-rbm
-<br>
-vrae
-<br>
-c-rnn-gan
-<br>
-tp-lstm-nade
-<br>
-balstm
-<br>
-deepbach
+**Multiple time-series forecasting on mobile network data using an RNN-RBM model** \
+*Arvid Bäärnhielm* \
+[[Paper](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1075835&dswid=-1088)] \
+21 Feb 2017
+
+**Variational recurrent auto-encoder** \
+*Otto Fabius, Joost R Van Amersfoort* \
+arXiv 2014 [[Paper](https://arxiv.org/abs/1412.6581)]
+
+**C-RNN-GAN: Continuous recurrent neural networks with adversarial training** \
+*Olof Mogren* \
+arXiv 2016 [[Paper](https://arxiv.org/abs/1611.09904)] \
+29 Nov 2016
+
+**Generating polyphonic music using tied parallel networks** \
+*Daniel D Johnson* \
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-319-55750-2_9)] \
+22 Mar 2017
+
+**Deepbach: a steerable model for bach chorales generation** \
+*Gaëtan Hadjeres, François Pachet, Frank Nielsen* \
+PMLR [[Paper](http://proceedings.mlr.press/v70/hadjeres17a.html?ref=https://githubhelp.com)]
+
 <br>
 bachprop
 <br>
