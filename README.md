@@ -14,13 +14,13 @@ unit
 <br>
 selection
 <br>
-<b>Music transcription modelling and composition using deep learning</b>
-Bob L Sturm, Joao Felipe Santos, Oded Ben-Tal, Iryna Korshunova
-arXiv 2016 [Paper](https://arxiv.org/abs/1604.08723)
+**Music transcription modelling and composition using deep learning** \
+*Bob L Sturm, Joao Felipe Santos, Oded Ben-Tal, Iryna Korshunova* \
+arXiv 2016 [[Paper](https://arxiv.org/abs/1604.08723)] \
 29 Apr 2016
-<br>
-A Hierarchical Recurrent Neural Network for Symbolic Melody Generation
-Jian Wu, Changran Hu, Yulong Wang, Xiaolin Hu, and Jun Zhu
+
+**A Hierarchical Recurrent Neural Network for Symbolic Melody Generation** \
+*Jian Wu, Changran Hu, Yulong Wang, Xiaolin Hu, and Jun Zhu* \
 arXiv 2017 [Paper](https://arxiv.org/abs/1712.05274)
 14 Dec 2017
 <br>
