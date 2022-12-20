@@ -10,10 +10,6 @@ https://arxiv.org/pdf/2011.06801.pdf
 
 
 ### melody generation
-unit 
-<br>
-selection
-<br>
 **Music transcription modelling and composition using deep learning** \
 *Bob L Sturm, Joao Felipe Santos, Oded Ben-Tal, Iryna Korshunova* \
 arXiv 2016 [[Paper](https://arxiv.org/abs/1604.08723)] \
@@ -21,7 +17,7 @@ arXiv 2016 [[Paper](https://arxiv.org/abs/1604.08723)] \
 
 **A Hierarchical Recurrent Neural Network for Symbolic Melody Generation** \
 *Jian Wu, Changran Hu, Yulong Wang, Xiaolin Hu, and Jun Zhu* \
-arXiv 2017 [Paper](https://arxiv.org/abs/1712.05274) \
+arXiv 2017 [[Paper](https://arxiv.org/abs/1712.05274)] \
 14 Dec 2017
 
 **Anticipation-RNN: enforcing unary constraints in sequence generation, with application to interactive music generation** \
@@ -60,8 +56,6 @@ arXiv 2017 [[Paper](https://arxiv.org/abs/1703.10847)] \
 **BebopNet: Deep Neural Models for Personalized Jazz Improvisations.** \
 *Shunit Haviv Hakimi, Nadav Bhonker, Ran El-Yaniv* \
 ISMIR 2020 [[Paper](https://program.ismir2020.net/static/final_papers/132.pdf)]
-
-chordal
 
 
 ### polyphonic music generation
@@ -108,16 +102,28 @@ IEEE 2014 [[Paper](https://ieeexplore.ieee.org/abstract/document/6984896)] \
 arXiv 2018 [[Paper](https://arxiv.org/abs/1809.04281)] \
 12 Dec 2018
 
-music fadernets
-<br>
-pianotree vae
+**Music FaderNets: Controllable Music Generation Based On High-Level Features via Low-Level Feature Modelling** \
+*Hao Hao Tan, Dorien Herremans* \
+arXiv 2020 [[Paper](https://arxiv.org/abs/2007.15474)] \
+29 Jul 2020
+
+**PIANOTREE VAE: Structured Representation Learning for Polyphonic Music** \
+*Ziyu Wang, Yiyi Zhang, Yixiao Zhang, Junyan Jiang, Ruihan Yang, Junbo Zhao (Jake), Gus Xia* \
+arXiv 2020 [[Paper](https://arxiv.org/abs/2008.07118)] \
+17 Aug 2020
+
 
 ### multi-track music generation
-song from pi
-<br>
-musegan
-<br>
-musicvae(extension)
+**Song From PI: A Musically Plausible Network for Pop Music Generation** \
+*Hang Chu, Raquel Urtasun, Sanja Fidler* \
+arXiv 2016 [[Paper](https://arxiv.org/abs/1611.03477)] \
+10 Nov 2016
+
+**MuseGAN: Multi-track Sequential Generative Adversarial Networks for Symbolic Music Generation and Accompaniment** \
+*Hao-Wen Dong, Wen-Yi Hsiao, Li-Chia Yang and Yi-Hsuan Yang* \
+AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/11312)] [[Source](https://github.com/salu133445/musegan)] \
+25 Apr 2018
+
 <br>
 musegan with bns
 <br>
