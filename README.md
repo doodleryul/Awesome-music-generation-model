@@ -1,15 +1,11 @@
 # Awesome-music-generation-model
 This repository contains a collection of resources and papers on Music Generation Models.
 
-## Resources
-
-
-## Paper
-### Survey
+## Survey
 https://arxiv.org/pdf/2011.06801.pdf
 
 
-### melody generation
+## melody generation
 **Music transcription modelling and composition using deep learning** \
 *Bob L Sturm, Joao Felipe Santos, Oded Ben-Tal, Iryna Korshunova* \
 arXiv 2016 [[Paper](https://arxiv.org/abs/1604.08723)] \
