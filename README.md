@@ -3,7 +3,7 @@ This repository contains a collection of resources and papers on Music Generatio
 
 ## Survey
 https://arxiv.org/pdf/2011.06801.pdf
-
+https://ieeexplore.ieee.org/ielx7/6287639/9668973/09966445.pdf?tp=&arnumber=9966445&isnumber=9668973&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jby5rci8=
 
 ## melody generation
 **Music transcription modelling and composition using deep learning** \
