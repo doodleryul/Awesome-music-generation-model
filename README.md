@@ -2,8 +2,12 @@
 This repository contains a collection of resources and papers on Music Generation Models.
 
 ## Survey
-https://arxiv.org/pdf/2011.06801.pdf
-https://ieeexplore.ieee.org/ielx7/6287639/9668973/09966445.pdf?tp=&arnumber=9966445&isnumber=9668973&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jby5rci8=
+**A Comprehensive Survey on Deep Music Generation: Multi-level Representations, Algorithms, Evaluations, and Future Directions** \
+*Shulei Ji, Jing Luo, Xinyu Yang* \
+arXiv 2020 [[Paper](https://arxiv.org/pdf/2011.06801.pdf)] \
+**Toward Interactive Music Generation: A Position Paper**
+*Shayan Dadman, Bernt Arild Bremdal, Børre Bang, Rune Dalmo* \
+IEEE Access 2022 [[Paper](https://ieeexplore.ieee.org/ielx7/6287639/9668973/09966445.pdf?tp=&arnumber=9966445&isnumber=9668973&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jby5rci8=)]
 
 ## melody generation
 **Music transcription modelling and composition using deep learning** \
@@ -119,33 +123,3 @@ arXiv 2016 [[Paper](https://arxiv.org/abs/1611.03477)] \
 *Hao-Wen Dong, Wen-Yi Hsiao, Li-Chia Yang and Yi-Hsuan Yang* \
 AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/11312)] [[Source](https://github.com/salu133445/musegan)] \
 25 Apr 2018
-
-<br>
-musegan with bns
-<br>
-mngans
-<br>
-dmb-gan
-<br>
-bandnet
-<br>
-lakhnes
-<br>
-mmm
-<br>
-conlon
-<br>
-musAE
-
-
-music transformer
-<br>
-performance rnn
-<br>
-groovae
-<br>
-transformer
-<br>
-pop music transformert
-<br>
-Multi-instrument Music Synthesis with Spectrogram Diffusion 
